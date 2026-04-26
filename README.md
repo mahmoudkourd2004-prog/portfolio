@@ -38,8 +38,7 @@ You can reach me through the contact form in the website or via my social links.
 ---
 
 ## 🚀 Live Demo
-(ضع هنا رابط موقعك على GitHub Pages)
-
+(https://mahmoudkourd2004-prog.github.io/portfolio/)
 ---
 
 Made with ❤️ by **Ma7moud Elkurd**
